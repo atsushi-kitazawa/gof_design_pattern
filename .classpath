@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_mediator"/>
 	<classpathentry kind="src" path="src_commad"/>
 	<classpathentry kind="src" path="src_chain_of_responsibility"/>
 	<classpathentry kind="src" path="src_abstruct_factory"/>
