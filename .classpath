@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_chain_of_responsibility"/>
 	<classpathentry kind="src" path="src_abstruct_factory"/>
 	<classpathentry kind="src" path="src_factory"/>
 	<classpathentry kind="src" path="src_builder_fluence"/>
